@@ -1,0 +1,6 @@
+module IOKit [system] {
+    header "shim.h"
+    link "IOKit"
+    export *
+}
+
